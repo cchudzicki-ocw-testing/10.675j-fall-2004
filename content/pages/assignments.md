@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: cef0b5ed-80f6-26a1-6beb-3844490d082d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -45,9 +49,9 @@ Homework 3 ({{% resource_link b4f36347-08ef-2528-2b57-2b5fb7475e49 "PDF" %}})
 {{< tdopen >}}
 ({{% resource_link df35f771-9764-f5c4-f787-128b1d02db12 "PDF" %}})  
   
-Problem 2 Step 1 ([TXT](/courses/chemical-engineering/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/assignments/Prob2step1.txt))  
-Problem 2 Step 2 ([TXT](/courses/chemical-engineering/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/assignments/Prob2step2.txt))  
-Problem 2 Step 3 ([TXT](/courses/chemical-engineering/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/assignments/Prob2step3.txt))
+Problem 2 Step 1 ({{% resource_link 6a1a5ac5-1cef-c538-9ed6-5daa566c7236 "TXT" %}})  
+Problem 2 Step 2 ({{% resource_link dc66c896-367d-857a-f33c-8712117dde41 "TXT" %}})  
+Problem 2 Step 3 ({{% resource_link 2f8f3401-8143-9041-398d-27b8c24c3226 "TXT" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +68,7 @@ Homework 4 ({{% resource_link 886116bb-3303-d146-1ca5-ef5373612783 "PDF" %}})
 {{< tdopen >}}
 Homework 5 ({{% resource_link dae0df0a-740a-ece1-04bc-f5a75f586fc4 "PDF" %}})  
   
-CPMD Input File ([TXT](/courses/chemical-engineering/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/assignments/CPMD_input_file.txt))
+CPMD Input File ({{% resource_link e49db848-3bdb-3fa5-f74b-848d2449115e "TXT" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ({{% resource_link c92a3db2-ae18-4025-5e55-d34c15f2e7a2 "PDF" %}})

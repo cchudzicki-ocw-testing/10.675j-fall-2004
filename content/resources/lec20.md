@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Lec20.pdf
 uid: 6481ee74-1536-6613-f6d0-ea433c6726ce
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

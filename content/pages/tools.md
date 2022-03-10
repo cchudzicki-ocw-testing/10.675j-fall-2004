@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Tools
 uid: 402302d2-02c0-6500-e6f3-05ecdd6e0793
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Computer Instructions and Tutorials

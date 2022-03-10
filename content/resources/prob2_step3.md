@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: prob2_step3.pdf
 uid: aa344f9d-ea9a-735f-8dc6-bb2528cf208f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

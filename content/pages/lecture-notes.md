@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 38517e7a-cea0-a910-1ce8-f7bc5c5fbf2d
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 An example set of lecture notes taken by a student in the course are available in the table below. Courtesy of Rick Rajter. Used with permission.

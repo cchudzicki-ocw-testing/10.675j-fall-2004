@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Lec13.pdf
 uid: 095c693d-19c0-58dc-21a6-c4921a75e6f5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

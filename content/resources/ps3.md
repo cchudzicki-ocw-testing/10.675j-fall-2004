@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: ps3.pdf
 uid: b4f36347-08ef-2528-2b57-2b5fb7475e49
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

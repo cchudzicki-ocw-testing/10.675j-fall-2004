@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: g03_on_win.pdf
 uid: f85e635d-9a46-67eb-c54d-88684040b6f8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
